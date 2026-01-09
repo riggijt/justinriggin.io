@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Thoughts | Justin Riggin</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Thoughts and writing by Justin Riggin." />
+
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 900px;
+      margin: 80px auto;
+      padding: 0 24px;
+      line-height: 1.7;
+    }
+    nav {
+      margin-bottom: 40px;
+    }
+    .post {
+      margin-bottom: 30px;
+    }
+    .date {
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+
+<body>
+
+<nav>
+  <a href="/">Home</a> ·
+  <a href="/about">About</a> ·
+  <a href="/projects">Projects</a>
+</nav>
+
+<h1>Thoughts</h1>
+
+<div class="post">
+  <div class="date">2026-01-09</div>
+  <a href="#">Thought 0.1</a>
+</div>
+
+<div class="post">
+  <div class="date">2026-01-02</div>
+  <a href="#">Thought 0.2</a>
+</div>
+
+</body>
+</html>
